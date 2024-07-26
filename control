@@ -1,0 +1,9 @@
+Package: com.greyd00r.panel
+Name: Panel
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Add a panel that is accessable via a swipe up from the bottom of the screen. This is just the backend loader for Panel Modules. 
+Maintainer: grayd00r
+Author: grayd00r
+Section: Tweaks

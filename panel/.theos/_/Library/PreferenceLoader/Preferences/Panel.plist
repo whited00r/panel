@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Panel;
+	cell = PSLinkCell;
+	detail = PanelListController;
+	icon = Panel.png;
+	isController = 1;
+	label = Panel;
+    };
+}
